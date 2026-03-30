@@ -6,4 +6,6 @@ h1{
 h2{
     font: cursive;
     clip: auto;
+    color: #000;
+    text-align: center;
 }
